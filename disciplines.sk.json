@@ -1,1 +1,54 @@
+[
+  { "title": "50m voľný spôsob - ženy",  "fina50": 23.61,  "fina25": 22.93 },
+  { "title": "100m voľný spôsob - ženy", "fina50": 51.71,  "fina25": 50.25 },
+  { "title": "200m voľný spôsob - ženy", "fina50": 112.85, "fina25": 110.31 },
+  { "title": "400m voľný spôsob - ženy", "fina50": 235.38, "fina25": 231.30 },
+  { "title": "800m voľný spôsob - ženy", "fina50": 484.79, "fina25": 477.42 },
+  { "title": "1500m voľný spôsob - ženy","fina50": 920.48, "fina25": 908.24 },
+
+  { "title": "50m znak - ženy",         "fina50": 26.86,  "fina25": 25.25 },
+  { "title": "100m znak - ženy",        "fina50": 57.33,  "fina25": 54.89 },
+  { "title": "200m znak - ženy",        "fina50": 123.14, "fina25": 118.94 },
+
+  { "title": "50m prsia - ženy",        "fina50": 29.16,  "fina25": 28.37 },
+  { "title": "100m prsia - ženy",       "fina50": 64.13,  "fina25": 62.36 },
+  { "title": "200m prsia - ženy",       "fina50": 137.55, "fina25": 134.57 },
+
+  { "title": "50m motýlik - ženy",      "fina50": 24.43,  "fina25": 24.38 },
+  { "title": "100m motýlik - ženy",     "fina50": 55.48,  "fina25": 54.05 },
+  { "title": "200m motýlik - ženy",     "fina50": 121.81, "fina25": 119.61 },
+
+  { "title": "200m polohovka - ženy",   "fina50": 126.12, "fina25": 121.86 },
+  { "title": "400m polohovka - ženy",   "fina50": 265.87, "fina25": 258.94 },
+
+  { "title": "4x100m voľný spôsob - ženy", "fina50": 207.96, "fina25": 205.43 },
+  { "title": "4x200m voľný spôsob - ženy", "fina50": 457.50, "fina25": 450.87 },
+  { "title": "4x100m polohovka - ženy",    "fina50": 230.40, "fina25": 224.35 },
+
+  { "title": "50m voľný spôsob - muži",  "fina50": 20.91,  "fina25": 20.16 },
+  { "title": "100m voľný spôsob - muži", "fina50": 46.86,  "fina25": 44.84 },
+  { "title": "200m voľný spôsob - muži", "fina50": 102.00, "fina25": 99.37 },
+  { "title": "400m voľný spôsob - muži", "fina50": 220.07, "fina25": 212.25 },
+  { "title": "800m voľný spôsob - muži", "fina50": 452.12, "fina25": 443.42 },
+  { "title": "1500m voľný spôsob - muži","fina50": 871.02, "fina25": 846.88 },
+
+  { "title": "50m znak - muži",         "fina50": 23.55,  "fina25": 22.11 },
+  { "title": "100m znak - muži",        "fina50": 56.88,  "fina25": 48.33 },
+  { "title": "200m znak - muži",        "fina50": 125.48, "fina25": 105.63 },
+
+  { "title": "50m prsia - muži",        "fina50": 25.95,  "fina25": 24.95 },
+  { "title": "100m prsia - muži",       "fina50": 56.88,  "fina25": 56.28 },
+  { "title": "200m prsia - muži",       "fina50": 125.48, "fina25": 120.16 },
+
+  { "title": "50m motýlik - muži",      "fina50": 22.27,  "fina25": 21.75 },
+  { "title": "100m motýlik - muži",     "fina50": 49.45,  "fina25": 47.48 },
+  { "title": "200m motýlik - muži",     "fina50": 110.34, "fina25": 106.85 },
+
+  { "title": "200m polohovka - muži",   "fina50": 114.00, "fina25": 109.63 },
+  { "title": "400m polohovka - muži",   "fina50": 242.50, "fina25": 234.81 },
+
+  { "title": "4x100m voľný spôsob - muži", "fina50": 188.24, "fina25": 182.75 },
+  { "title": "4x200m voľný spôsob - muži", "fina50": 418.55, "fina25": 404.12 },
+  { "title": "4x100m polohovka - muži",    "fina50": 206.78, "fina25": 198.98 }
+]
 
